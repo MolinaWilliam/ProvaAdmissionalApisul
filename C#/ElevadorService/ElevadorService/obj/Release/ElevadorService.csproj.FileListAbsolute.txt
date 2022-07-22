@@ -1,0 +1,11 @@
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Release\ElevadorService.exe.config
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Release\ElevadorService.exe
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Release\ElevadorService.pdb
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Release\Newtonsoft.Json.dll
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Release\Newtonsoft.Json.xml
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.csproj.AssemblyReference.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.csproj.CoreCompileInputs.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.csproj.CopyComplete
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.exe
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Release\ElevadorService.pdb

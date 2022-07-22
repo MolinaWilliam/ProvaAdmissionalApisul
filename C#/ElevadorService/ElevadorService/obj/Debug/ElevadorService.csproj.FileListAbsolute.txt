@@ -1,0 +1,11 @@
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.csproj.AssemblyReference.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.csproj.CoreCompileInputs.cache
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Debug\ElevadorService.exe.config
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Debug\ElevadorService.exe
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Debug\ElevadorService.pdb
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.exe
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.pdb
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\ProvaAdmissionalApisul\C#\ElevadorService\ElevadorService\obj\Debug\ElevadorService.csproj.CopyComplete
